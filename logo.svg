@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Rebecca Winter Counseling logo">
+  <title>Rebecca Winter Counseling</title>
+  <circle cx="60" cy="60" r="56" fill="#3F5E5A"/>
+  <!-- two leaves rising from one stem: growth, steadiness -->
+  <path d="M60 92 L60 46" stroke="#E9E2D6" stroke-width="3" stroke-linecap="round"/>
+  <path d="M60 70 C 44 68, 34 56, 34 40 C 50 42, 60 54, 60 70 Z" fill="#B7C4A8"/>
+  <path d="M60 60 C 76 58, 86 46, 86 30 C 70 32, 60 44, 60 60 Z" fill="#E9E2D6"/>
+</svg>
